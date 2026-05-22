@@ -4,7 +4,7 @@ I am a recent Bachelor of Information Technology (BIT) graduate from Nepal, with
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manojkc-dev/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khatrimanoj2135@gmail.com) ---<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manojkc-dev/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khatrimanoj2135@gmail.com) <br><br>
 🚀 **Check out my portfolio:** <br><a href="https://portfolio-manojkc-ostv19v9e-manojkc-devs-projects.vercel.app/">
   <img src="https://img.shields.io/badge/Live-Portfolio-blue?style=for-the-badge&logo=vercel" alt="Live Portfolio">
 </a>
