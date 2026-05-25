@@ -1,17 +1,17 @@
 # 💫 About Me:
 BIT graduate from Nepal building production-ready backend systems. I design and ship scalable <b>REST APIs using Python, Django, and Django REST Framework with PostgreSQL, JWT authentication, and clean Git workflows</b>.
 
-<b>Core stack</b>
+<b>Core stack:</b>
 Python
 Django / DRF
 PostgreSQL
 
-<B>Auth & tooling</B>
+<b>Auth & tooling:</b>
 JWT / Session
 Django ORM
 Git / GitHub
 
-Also comfortable
+<b>Also comfortable:</b>
 HTML5 / CSS3
 JavaScript ES6+
 REST principles
