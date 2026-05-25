@@ -12,9 +12,6 @@ I am a recent Bachelor of Information Technology (BIT) graduate from Nepal, with
 ![](https://streak-stats.demolab.com/?user=manojkc-dev&theme=default_repocard&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=manojkc-dev&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=manojkc-dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
