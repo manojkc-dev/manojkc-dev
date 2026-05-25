@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am a recent Bachelor of Information Technology (BIT) graduate from Nepal, with a strong foundation in backend web development. I specialize in building scalable REST APIs and web applications using Python, Django, and Django REST Framework, with PostgreSQL as my primary database. I am proficient in JWT-based authentication, Django ORM, and Git-based development workflows. I possess working knowledge of HTML5, CSS3, and JavaScript ES6+, and I am actively developing my skills in React. I am a detail-oriented, self-driven developer who values clean code, clear documentation, and continuous learning. I am seeking an entry-level Backend Developer position where I can contribute meaningfully and grow within a professional software development environment.
+BIT graduate from Nepal building production-ready backend systems. I design and ship scalable REST APIs using Python, Django, and Django REST Framework — with PostgreSQL, JWT authentication, and clean Git workflows.
+
+I write code that's readable, documented, and built to last. Currently open to backend or full-stack roles where I can contribute from day one and grow fast.<br><br>
 
 
 ## 🌐 Socials:
