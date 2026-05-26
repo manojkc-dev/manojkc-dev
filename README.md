@@ -1,19 +1,6 @@
 <h1 align="center">Hi, I'm Manoj Khatri 👋</h1>
 <h3 align="center">Backend-focused Full-Stack Developer specializing in building robust, scalable web applications and clean REST APIs.</h3>
 
-<p align="center">
-  <a href="https://portfolio-manojkc.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/manojkc-dev/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:khatrimanoj2135@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.facebook.com/manojkhatri72"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://www.instagram.com/manojkhatri_72/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
-</p>
-
 ---
 
 ### 🚀 About Me
@@ -22,6 +9,22 @@
 - ⚙️ **Core Focus:** Designing high-performance backend systems, database architecture, and secure authentication workflows.
 - 💻 **Current Pursuit:** Actively expanding my frontend expertise with React to build seamless, end-to-end applications.
 - 🌱 **Philosophy:** Writing clean, documented, and maintainable code that lasts.
+
+---
+
+<p align="center">
+  <a href="https://portfolio-manojkc.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+## 🌐 Socials:
+<p align="center">
+  <a href="https://www.linkedin.com/in/manojkc-dev/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:khatrimanoj2135@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.facebook.com/manojkhatri72"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://www.instagram.com/manojkhatri_72/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
+</p>
 
 ---
 
@@ -37,6 +40,13 @@
 ---
 
 ### 📊 GitHub Stats
+
+![](https://github-readme-stats.shion.dev/api?username=manojkc-dev&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=manojkc-dev&theme=default_repocard&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=manojkc-dev&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=manojkc-dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=manojkc-dev&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
