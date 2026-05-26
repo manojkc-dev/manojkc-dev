@@ -1,3 +1,38 @@
+# Hi, I'm Manoj Khatri 👋
+
+Backend-focused Full-Stack Developer specializing in building robust, scalable web applications and clean REST APIs.
+
+[🌐 Live Portfolio](https://portfolio-manojkc.vercel.app/) • [💼 LinkedIn](https://linkedin.com/in/manojkc-dev) • [✉️ Email](mailto:khatrimanoj2135@gmail.com)
+
+---
+
+### 🚀 About Me
+
+- 🎓 **Education:** IT Graduate (BIT) based in Kathmandu, Nepal.
+- ⚙️ **Core Focus:** Designing high-performance backend systems, database architecture, and secure authentication workflows.
+- 💻 **Current Pursuit:** Actively expanding my frontend expertise with React to build seamless, end-to-end applications.
+- 🌱 **Philosophy:** Writing clean, documented, and maintainable code that lasts.
+
+---
+
+### 🛠️ Tech Stack
+
+| Category | Technologies |
+| :--- | :--- |
+| **Backend & APIs** | Python, Django, Django REST Framework, FastAPI, REST principles |
+| **Databases** | PostgreSQL, MySQL, Supabase, MongoDB |
+| **Frontend** | JavaScript (ES6+), React, HTML5, CSS3, TailwindCSS, Bootstrap, SASS, jQuery |
+| **DevOps & Tools** | Git, GitHub, JWT, Vercel, Render |
+
+---
+
+### 📈 GitHub Statistics
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=manojkc-dev&show_icons=true&theme=dark&hide_border=true" alt="Manoj's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojkc-dev&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="150" />
+</p>
+
 # 💫 About Me:
 BIT graduate from Nepal building production-ready backend systems. I design and ship scalable <b>REST APIs using Python, Django, and Django REST Framework with PostgreSQL, JWT authentication, and clean Git workflows</b>.
 
