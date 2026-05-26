@@ -26,12 +26,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/manojkc-dev?tab=followers">
-    <img src="https://img.shields.io/github/followers/manojkc-dev?label=Followers&style=flat&color=0e75b6" alt="Followers" />
-  </a>
-  
-  <a href="https://github.com/manojkc-dev?tab=following">
-    <img src="https://img.shields.io/badge/Following-28-0e75b6?style=flat" alt="Following" />
+  <a href="https://github.com/manojkc-dev">
+    <img src="https://img.shields.io/github/followers/manojkc-dev?label=Follow%20Me&style=flat&color=0e75b6" alt="Follow Me" />
   </a>
 
   <a href="https://github.com/manojkc-dev/manojkc-dev/stargazers">
