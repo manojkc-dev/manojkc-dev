@@ -1,15 +1,15 @@
 <h1 align="center">Hi, I'm Manoj Khatri 👋</h1>
-<h3 align="center">Backend-focused Full-Stack Developer specializing in building robust, scalable web applications and clean REST APIs.</h3>
+<h3 align="center">Backend Developer specializing in robust server architecture, scalable REST APIs, and efficient database design.</h3>
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 **Education:** IT Graduate (BIT) based in Kathmandu, Nepal.
-- ⚙️ **Core Focus:** Designing high-performance backend systems, database architecture, and secure authentication workflows.
-- 💻 **Current Pursuit:** Actively expanding my frontend expertise with React to build seamless, end-to-end applications.
-- 🌱 **Philosophy:** Writing clean, documented, and maintainable code that lasts.
-
+- 🎓 **Education:** IT Graduate (BIT), based in Kathmandu, Nepal.
+- ⚙️ **Core Focus:** Designing high-performance backend systems, database optimization, and secure API workflows.
+- 💻 **Current Pursuit:**  Diving deeper into advanced architectural patterns and secure authentication protocols (JWT).
+- 🌱 **Philosophy:** Writing clean, scalable, thoroughly documented server-side code that stands the test of time.
+  
 ---
 
 <p align="center">
