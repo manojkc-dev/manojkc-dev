@@ -1,4 +1,5 @@
-<h1 align="center">Hi, I'm Manoj Khatri <img src="https://raw.githubusercontent.com/AnantaSharma/AnantaSharma/main/waving-hand.gif" width="30px"></h1>
+<h1 align="center">Hi, I'm Manoj Khatri 👋</h1>
+<h3 align="center">Backend Developer specializing in robust server architecture, scalable REST APIs, and efficient database design.</h3>
 
 ---
 
