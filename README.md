@@ -27,7 +27,7 @@
 
 <p align="center">
   <a href="https://github.com/manojkc-dev">
-    <img src="https://img.shields.io/github/followers/manojkc-dev?label=Follow%20Me&style=flat&color=0e75b6" alt="Follow Me" />
+    <img src="https://img.shields.io/github/followers/manojkc-dev?label=Follow%20Me&style=flat&color=0e75b6" alt="Followers" />
   </a>
 
   <a href="https://github.com/manojkc-dev/manojkc-dev/stargazers">
