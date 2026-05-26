@@ -18,7 +18,6 @@
   </a>
 </p>
 
-## 🌐 Socials:
 <p align="center">
   <a href="https://www.linkedin.com/in/manojkc-dev/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:khatrimanoj2135@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -41,12 +40,10 @@
 
 ### 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=manojkc-dev&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=manojkc-dev&theme=default_repocard&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=manojkc-dev&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=manojkc-dev&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false)<br><br>
+![](https://streak-stats.demolab.com/?user=manojkc-dev&theme=default_repocard&hide_border=false)<br><br>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=manojkc-dev&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br><br>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=manojkc-dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=manojkc-dev&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
