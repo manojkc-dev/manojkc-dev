@@ -18,6 +18,9 @@ REST principles
 
 I write code that's readable, documented, and built to last. Currently open to backend or full-stack roles where I can contribute from day one and grow fast.<br><br>
 
+## 🚀 Live Demo
+You can view the live deployment of this portfolio here: [Live Demo](https://portfolio-manojkc.vercel.app)
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/manojkhatri72) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/manojkhatri_72/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/manojkc-dev/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:khatrimanoj2135@gmail.com) <br><br>
