@@ -25,18 +25,6 @@
   <a href="https://www.instagram.com/manojkhatri_72/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/manojkc-dev">
-    <img src="https://img.shields.io/github/followers/manojkc-dev?label=Follow%20Me&style=flat&color=0e75b6" alt="Followers" />
-  </a>
-
-  <a href="https://github.com/manojkc-dev/manojkc-dev/stargazers">
-    <img src="https://img.shields.io/github/stars/manojkc-dev/manojkc-dev?label=Stars&style=flat&color=0e75b6" alt="Stars" />
-  </a>
-
-  <img src="https://komarev.com/ghpvc/?username=manojkc-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
 ---
 
 ### 🛠️ Tech Stack
@@ -70,5 +58,13 @@
 ---
 
 <p align="center">
+  <a href="https://github.com/manojkc-dev">
+    <img src="https://img.shields.io/github/followers/manojkc-dev?label=Follow%20Me&style=flat&color=0e75b6" alt="Followers" />
+  </a>
+
+  <a href="https://github.com/manojkc-dev/manojkc-dev/stargazers">
+    <img src="https://img.shields.io/github/stars/manojkc-dev/manojkc-dev?label=Stars&style=flat&color=0e75b6" alt="Stars" />
+  </a>
+
   <img src="https://komarev.com/ghpvc/?username=manojkc-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
