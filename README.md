@@ -46,15 +46,15 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manojkc-dev&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=manojkc-dev&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manojkc-dev&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=manojkc-dev&theme=default_repocard&hide_border" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojkc-dev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=manojkc-dev&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </p>
 
 ---
