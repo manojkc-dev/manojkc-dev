@@ -27,16 +27,18 @@
 
 <p align="center">
   <a href="https://github.com/manojkc-dev?tab=followers">
-    <img src="https://img.shields.io/github/followers/manojkc-dev?label=Followers&style=social" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/manojkc-dev?label=Followers&style=flat&color=0e75b6" alt="Followers" />
   </a>
   
   <a href="https://github.com/manojkc-dev?tab=following">
-    <img src="https://img.shields.io/badge/Following-28-lightgrey?style=social&logo=github" alt="Following" />
+    <img src="https://img.shields.io/badge/Following-28-0e75b6?style=flat" alt="Following" />
   </a>
 
   <a href="https://github.com/manojkc-dev/manojkc-dev/stargazers">
-    <img src="https://img.shields.io/github/stars/manojkc-dev/manojkc-dev?style=social" alt="Stars" />
+    <img src="https://img.shields.io/github/stars/manojkc-dev/manojkc-dev?label=Stars&style=flat&color=0e75b6" alt="Stars" />
   </a>
+
+  <img src="https://komarev.com/ghpvc/?username=manojkc-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
