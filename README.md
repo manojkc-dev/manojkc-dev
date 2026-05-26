@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm Manoj Khatri 👋</h1>
-<h3 align="center">Backend Developer specializing in robust server architecture, scalable REST APIs, and efficient database design.</h3>
-
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&platForm=v2&duration=1200&pause=1000&color=000000&vCenter=true&width=450&height=50&lines=Hi%2C+I'm+Manoj+Khatri+👋" alt="Hi, I'm Manoj Khatri 👋" />
+</h1>
 ---
 
 ### 🚀 About Me
