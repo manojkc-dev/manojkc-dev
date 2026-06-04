@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://portfolio-manojkc.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <🌐_Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
