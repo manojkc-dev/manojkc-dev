@@ -13,8 +13,8 @@
 ---
 
 <p align="center">
-  <a href="https://portfolio-manojkc.vercel.app/" target="_blank">
-    [![Live Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-000000?style=for-the-badge&logo=render&logoColor=white)](https://manojkc-portfolio.onrender.com)
+  <a href="https://manojkc-portfolio.onrender.com" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Live_Portfolio-000000?style=for-the-badge&logo=render&logoColor=white" alt="Live Portfolio" />
   </a>
 </p>
 
