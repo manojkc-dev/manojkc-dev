@@ -5,10 +5,17 @@
 
 ### 🚀 About Me
 
-- 🎓 **Education:** IT Graduate (BIT), based in Kathmandu, Nepal.
-- ⚙️ **Core Focus:** Designing high-performance backend systems, database optimization, and secure API workflows.
-- 💻 **Current Pursuit:**  Diving deeper into advanced architectural patterns and secure authentication protocols (JWT).
-- 🌱 **Philosophy:** Writing clean, scalable, thoroughly documented server-side code that stands the test of time.
+Backend developer focused on Python, Django, and REST APIs.
+I build the server-side layer that makes web products actually work —
+clean data models, secure auth flows, and APIs that don't break under load.
+
+- 🔧 Specializing in **Django REST Framework** and **PostgreSQL**-backed systems
+- 🔐 Hands-on with **JWT authentication**, permissions, and secure API design
+- 📦 Building backend infrastructure for **SaaS MVPs** and data-driven apps
+- 🌏 Based in **Kathmandu, Nepal** — open to remote freelance and junior roles
+- 📈 Currently deepening: advanced DRF patterns · database optimization · API architecture
+
+> Writing clean, well-documented server-side code that scales.
   
 ---
 
