@@ -26,10 +26,10 @@ clean data models, secure auth flows, and APIs that don't break under load.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/manojkc-dev/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:contactmanojkc1.com.np@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.facebook.com/manojkhatri72"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://www.instagram.com/manojkhatri_72/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.linkedin.com/in/manojkc1dev/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:manojkc1.com.np@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.facebook.com/manojkc1dev"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://www.instagram.com/manojkc1dev/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 ---
@@ -51,27 +51,27 @@ clean data models, secure auth flows, and APIs that don't break under load.
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=manojkc-dev&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=manojkc1dev&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=manojkc-dev&theme=default_repocard&hide_border" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=manojkc1dev&theme=default_repocard&hide_border" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=manojkc-dev&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=manojkc1dev&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </p>
 
 ---
 
 <p align="center">
-  <a href="https://github.com/manojkc-dev">
-    <img src="https://img.shields.io/github/followers/manojkc-dev?label=Follow%20Me&style=flat&color=0e75b6" alt="Followers" />
+  <a href="https://github.com/manojkc1dev">
+    <img src="https://img.shields.io/github/followers/manojkc1dev?label=Follow%20Me&style=flat&color=0e75b6" alt="Followers" />
   </a>
 
-  <a href="https://github.com/manojkc-dev/manojkc-dev/stargazers">
-    <img src="https://img.shields.io/github/stars/manojkc-dev/manojkc-dev?label=Stars&style=flat&color=0e75b6" alt="Stars" />
+  <a href="https://github.com/manojkc1dev/manojkc1dev/stargazers">
+    <img src="https://img.shields.io/github/stars/manojkc1dev/manojkc1dev?label=Stars&style=flat&color=0e75b6" alt="Stars" />
   </a>
 
-  <img src="https://komarev.com/ghpvc/?username=manojkc-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=manojkc1dev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
