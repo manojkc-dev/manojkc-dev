@@ -4,16 +4,35 @@
 ---
 
 ### 🚀 About Me
-<b>Backend developer focused on Python, Django, and REST APIs. I build the server-side layer that makes web products actually work clean data models, secure auth flows, and APIs that don't break under load.
+Backend developer focused on Python, Django, and REST APIs. I build the server-side layer that makes web products actually work: clean data models, secure auth flows, and APIs that don't break under load.
 
-🔧 Django REST Framework + PostgreSQL (my core stack)<br>
-🔐 JWT authentication, role-based permissions, and secure-by-default API design<br>
-💳 Payment integration experience: Khalti, eSewa, adaptable to Stripe for global clients<br>
-📦 Shipped: role-based marketplace API with negotiation/order flow, multi-vendor backend with buyer/seller/admin roles, Docker-ready deployments with documented endpoints<br>
-🌏 Based in Kathmandu, Nepal: open to remote freelance and backend roles<br>
-📈 Currently deepening: Celery/background jobs | Database optimization | API architecture at scale<b>
+## 🔧 Core Tech Stack
+* **Languages & Frameworks:** Python, Django, Django REST Framework
+* **Databases & Tools:** PostgreSQL, Docker, Postman/Insomnia
+* **Security:** JWT authentication, role-based permissions, secure-by-default API design
 
-Writing clean, well-documented server-side code that scales.
+## 💳 Payment Integrations
+* **Regional:** Khalti, eSewa
+* **Global:** Adaptable to Stripe and PayPal
+
+## 📦 Shipped Projects
+* **Role-Based Marketplace API:** Built complex negotiation and order workflows.
+* **Multi-Vendor Backend:** Managed distinct buyer, seller, and admin logic.
+* **Dockerized Deployments:** Delivered ready-to-deploy containers with fully documented endpoints.
+
+## 📈 Current Focus
+* Deepening knowledge in **Celery** and asynchronous background jobs.
+* Mastering **database optimization** and indexing strategies.
+* Designing high-throughput **API architecture** at scale.
+
+---
+
+### 🌏 Location & Availability
+* **Based in:** Kathmandu, Nepal 🇳🇵
+* **Open to:** Remote freelance contracts and full-time backend roles.
+
+*Writing clean, well-documented server-side code that scales.*
+
   
 ---
 
