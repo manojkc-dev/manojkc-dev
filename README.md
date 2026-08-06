@@ -4,14 +4,14 @@
 ---
 
 ### 🚀 About Me
-Backend developer focused on Python, Django, and REST APIs. I build the server-side layer that makes web products actually work clean data models, secure auth flows, and APIs that don't break under load.
+<b>Backend developer focused on Python, Django, and REST APIs. I build the server-side layer that makes web products actually work clean data models, secure auth flows, and APIs that don't break under load.
 
 🔧 Django REST Framework + PostgreSQL (my core stack)<br>
 🔐 JWT authentication, role-based permissions, and secure-by-default API design<br>
 💳 Payment integration experience: Khalti, eSewa, adaptable to Stripe for global clients<br>
 📦 Shipped: role-based marketplace API with negotiation/order flow, multi-vendor backend with buyer/seller/admin roles, Docker-ready deployments with documented endpoints<br>
-<b>🌏 Based in Kathmandu, Nepal: open to remote freelance and backend roles<b> <br>
-📈 Currently deepening: Celery/background jobs | Database optimization | API architecture at scale<br>
+🌏 Based in Kathmandu, Nepal: open to remote freelance and backend roles<br>
+📈 Currently deepening: Celery/background jobs | Database optimization | API architecture at scale<b>
 
 Writing clean, well-documented server-side code that scales.
   
