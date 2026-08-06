@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Manoj Khatri 👋</h1>
-<h3 align="center">Backend Developer specializing in robust server architecture, scalable REST APIs, and efficient database design.</h3>
+<h3 align="center">Backend Developer specializing in robust server architecture, <br>scalable REST APIs, and efficient database design.</h3>
 
 ---
 
