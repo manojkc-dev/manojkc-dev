@@ -4,7 +4,7 @@
 ---
 
 ### 🚀 About Me
-Backend developer focused on Python, Django, and REST APIs. I build the server-side layer that makes web products actually work: clean data models, secure auth flows, and APIs that don't break under load.
+**Backend developer focused on Python, Django, and REST APIs. I build the server-side layer that makes web products actually work: clean data models, secure auth flows, and APIs that don't break under load.**
 
 ## 🔧 Core Tech Stack
 * **Languages & Frameworks:** Python, Django, Django REST Framework
