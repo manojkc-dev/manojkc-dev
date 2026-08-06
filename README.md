@@ -8,7 +8,7 @@
 
 ## 🔧 Core Tech Stack
 * **Languages & Frameworks:** Python, Django, Django REST Framework
-* **Databases & Tools:** PostgreSQL, Docker, Postman/Insomnia
+* **Databases & Tools:** PostgreSQL, Docker, Postman/Insomnia, Thunder Client
 * **Security:** JWT authentication, role-based permissions, secure-by-default API design
 
 ## 💳 Payment Integrations
