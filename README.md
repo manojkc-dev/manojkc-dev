@@ -1,37 +1,52 @@
-<h1 align="center">Hi, I'm Manoj Khatri 👋</h1>
+<h1 align="center">Hi, I'm Manoj K.C. 👋</h1>
 <h3 align="center">Backend Developer specializing in robust server architecture, <br>scalable REST APIs, and efficient database design.</h3>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ### 🚀 About Me
-**Backend developer focused on Python, Django, and REST APIs. I build the server-side layer that makes web products actually work: clean data models, secure auth flows, and APIs that don't break under load.**
+
+**Backend developer focused on Python, Django, and REST APIs. I build the server-side layer that makes web products work: clean data models, secure auth flows, and well-documented APIs.**
 
 ## 🔧 Core Tech Stack
+
 * **Languages & Frameworks:** Python, Django, Django REST Framework
-* **Databases & Tools:** PostgreSQL, Docker, Postman/Insomnia, Thunder Client
+* **Databases & Tools:** PostgreSQL, Docker, Postman, Swagger/OpenAPI
 * **Security:** JWT authentication, role-based permissions, secure-by-default API design
+* **Frontend Integration:** JavaScript, React, TypeScript (API consumption, CORS handling)
 
 ## 💳 Payment Integrations
-* **Regional:** Khalti, eSewa
-* **Global:** Adaptable to Stripe and PayPal
+
+* **Regional:** Khalti, eSewa (built and deployed)
+* **Global patterns:** Familiar with Stripe/PayPal integration architecture, ready to implement
 
 ## 📦 Shipped Projects
-* **Role-Based Marketplace API:** Built complex negotiation and order workflows.
-* **Multi-Vendor Backend:** Managed distinct buyer, seller, and admin logic.
-* **Dockerized Deployments:** Delivered ready-to-deploy containers with fully documented endpoints.
+
+* **Agritech Marketplace:** KYC verification and Khalti/eSewa payment integration, deployed
+* **Multi-Vendor Marketplace API:** Buyer, seller, and admin roles with negotiation and order workflows, documented with Swagger
+* **[Add project name]:** [Only list Docker deployment here if actually containerized and deployed]
 
 ## 📈 Current Focus
-* Deepening knowledge in **Celery** and asynchronous background jobs.
-* Mastering **database optimization** and indexing strategies.
-* Designing high-throughput **API architecture** at scale.
+
+* Learning **Celery** and asynchronous background jobs (django-celery-beat)
+* Deepening **Docker** and containerized deployment workflows
+* Building toward **RAG and applied AI** systems (LangChain, pgvector)
+* Sharpening **database optimization** and indexing strategies
 
 ---
 
 ### 🌏 Location & Availability
-* **Based in:** Kathmandu, Nepal 🇳🇵
-* **Open to:** Remote freelance contracts and full-time backend roles.
 
-*Writing clean, well-documented server-side code that scales.*
+* **Based in:** Kathmandu, Nepal 🇳🇵
+* **Open to:** Remote freelance contracts and junior backend roles
+
+*Writing clean, well-documented server-side code, one shipped project at a time.*
 
   
 ---
