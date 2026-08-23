@@ -1,12 +1,6 @@
 <h1 align="center">Hi, I'm Manoj K.C. 👋</h1>
 <h3 align="center">Backend Developer specializing in robust server architecture, <br>scalable REST APIs, and efficient database design.</h3>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -30,7 +24,6 @@
 
 * **Agritech Marketplace:** KYC verification and Khalti/eSewa payment integration, deployed
 * **Multi-Vendor Marketplace API:** Buyer, seller, and admin roles with negotiation and order workflows, documented with Swagger
-* **[Add project name]:** [Only list Docker deployment here if actually containerized and deployed]
 
 ## 📈 Current Focus
 
