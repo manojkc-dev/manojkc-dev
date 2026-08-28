@@ -62,15 +62,17 @@
 
 ---
 
-## 🛠️ Tech Stack 
-<div align="center"> 
+### 🛠️ Tech Stack
+
+<div align="center">
 
 | Category | Technologies |
 | :---: | :--- |
-| **Backend & APIs** | ![Python](https://shields.io) ![Django](https://shields.io) ![DjangoREST](https://shields.io) |
-| **Databases** | ![Postgres](https://shields.io) ![MySQL](https://shields.io) ![SQLite](https://shields.io) ![MongoDB](https://shields.io) ![Redis](https://shields.io) |
-| **Frontend Integration** | ![HTML5](https://shields.io) ![CSS3](https://shields.io) ![JavaScript](https://shields.io) ![React](https://shields.io) ![TypeScript](https://shields.io) |
-| **DevOps & Tools** | ![Git](https://shields.io) ![GitHub](https://shields.io) ![Docker](https://shields.io) ![Postman](https://shields.io) | 
+| **Backend & APIs** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO--REST-ff1709?style=flat&logo=django&logoColor=white) |
+| **Databases** | ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=flat&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%23003B57.svg?style=flat&logo=sqlite&logoColor=white) |
+| **Caching & Real-Time** | ![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=flat&logo=redis&logoColor=white) |
+| **Frontend Integration** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) |
+| **DevOps & Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=flat&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) |
 
 </div>
 
